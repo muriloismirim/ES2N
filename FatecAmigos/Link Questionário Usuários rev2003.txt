@@ -1,0 +1,87 @@
+Link forms Questionário Usuários:
+https://docs.google.com/forms/d/e/1FAIpQLSdXLdOBGpSYdlYbPHqtXGwfoT89KowUs1_C8YF91XjmWiALow/viewform
+
+
+colocar numero nas questões 
+observar que algumas perguntas dependem de respostas anteriores
+======================
+Por gentileza, informar o Nome e o RA.
+
+--> substituir por
+Qual é a sua relação com a Fatec Sorocaba?
+Aluno
+Professor
+Funcionário
+====
+Ao participar, você concorda com o uso de seus dados para os objetivos da pesquisa.  
+informar --> substituir
+Em acordo com a Lei Geral de Proteção de Dados Pessoais (LGPD), os dados coletados por meio deste instrumento de pesquisa são anônimos, sigilosos e protegidos contra a utilização por pessoas não autorizadas, e serão utilizados somente para fins entender melhor as necessidades dos usuários, concorda em participar??
+--> se acharem melhor colocar isso no inicio antes das questões, pois responder significa que a pessoa concorda (da uma olhada o TCLE)
+====
+Você sabia que é possível que os alunos, professores e funcionários podem reservar a quadra da Fatec Sorocaba para praticar esportes? --> colocar Sorocaba
+=======
+Você teria interesse em reservar a quadra para realizar a prática de algum esporte?
+*
+Sim
+Não
+Talvez --> incluir
+========
+Qual(s) --> substituir Qual ou quais esportes você tem mais interesse em praticar?
+
+===========
+Como foi sua experiência? --> somente para quem tentou reservar
+ótima
+boa
+regular
+péssima
+===============
+subir essa questão AQUI
+Você acha que a falta de organização no agendamento da quadra da Fatec Sorocaba impacta a frequência com que você pratica esportes?
+Sim (justificar)
+Não
+Talvez
+=============
+Quais dificuldades você enfrenta (ou enfrentou) ao tentar organizar uma partida ou treino com outras pessoas? --> colocar opções (dentro da Fatec???)
+Encontrar um horário compatível para todos
+Reunir um número suficiente de participantes
+Falta de um local adequado para a prática
+Falta de compromisso dos participantes
+Comunicação e coordenação do grupo
+Falta de equipamentos ou materiais necessários
+Condições climáticas desfavoráveis
+Custos envolvidos (aluguel de quadra, transporte, etc.)
+Outro: _______
+Não encontrei dificuldades
+Nunca organizei xxxxxx
+================
+Você utilizaria um site para facilitar o agendamento e utilização da quadra da Fatec Sorocaba e encontrar jogadores interessados? --> colocar Sorocaba
+Sim
+Não
+Talvez
+============
+Quais funcionalidades você considera essenciais em um sistema de agendamento de quadras da Fatec Sorocaba? (Você pode selecionar mais de uma opção.) --> colocar opções
+
+Reserva e cancelamento de quadras online
+Notificação de partidas agendadas e vagas de jogadores??
+Criação de grupos para organização de jogos
+Sistema de avaliação dos jogadores
+Divisão automática de times com base no nível dos jogadores
+Chat para comunicação entre os participantes
+Lista de espera para partidas lotadas
+Integração com calendários (Google Agenda, Outlook, etc.)
+Outro: _______
+============
+Você estaria disposto a utilizar sistema de agendamento de quadras da Fatec Sorocaba
+?
+Sim
+Não
+Talvez
+========
+Você teria interesse em receber notificações desse sistema de agendamento sobre partidas abertas ou eventos esportivos organizados por outros alunos na FATEC Sorocaba?
+Sim
+Não
+Talvez
+=========
+Gostaria de fornecer alguma sugestão de funcionalidade  para o novo sistema?
+========
+
